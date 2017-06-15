@@ -116,9 +116,6 @@ INSERT INTO Employees
 VALUES(5, 'Michael', 'Smith', 'MichaelEmail@email.com', 07982359201, '11-FEB-2016', 
 17500, null, 5, 5, 2); 
 
-/* Job_History */ 
-
-
 /* Departments */ 
 INSERT INTO Departments
 VALUES(1, 'Head Office', 1, 1); 
